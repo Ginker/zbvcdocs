@@ -1,0 +1,27 @@
+{
+  "name": "zbvcdocs",
+  "version": "1.0.0",
+  "description": "这是淄博职业技术学院的介绍文档，由于本人初了解学校，所以肯定会有遗漏或者错误的地方，欢迎大家及时提出建议或指正，共同创造良好的学校环境。",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ginker/zbvcdocs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ginker/zbvcdocs/issues"
+  },
+  "homepage": "https://github.com/Ginker/zbvcdocs#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.8.2"
+  },
+  "dependencies": {
+    "vuepress-theme-reform": "^1.5.1"
+  }
+}
