@@ -1,4 +1,5 @@
 module.exports = {
+  base: "/zbvcdocs/",
   themeConfig: {
     logo: '/assets/img/logo.png',
     sidebar: 'auto',
